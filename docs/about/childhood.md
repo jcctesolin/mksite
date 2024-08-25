@@ -1,3 +1,0 @@
-# ChildHood
-
-## Misplaced Childhood
