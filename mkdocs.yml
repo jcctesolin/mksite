@@ -16,28 +16,27 @@ theme:
         name: Switch to light mode
 
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.preview
-    - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.sections
+    #- navigation.instant
+    #- navigation.instant.progress
+    #- navigation.instant.preview
+    #- navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    #- navigation.sections
     - navigation.path
-    - navigation.expand
-    - toc.integrate
-    - navigation.top
-    - content.code.copy
+    #- navigation.expand
+    #- toc.integrate
+    #- navigation.top
+    #- content.code.copy
+    - content.tooltips
 
-  markdown_extensions:
-    - pymdownx.highlight:
-        anchor_linenums: true
-        line_spans: __span
-        pygments_lang_class: true
-    - pymdownx.inlinehilite
-    - pymdownx.snippets
-    - pymdownx.superfences
-  
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
   - Sobre: index.md
   - Ontologias:
@@ -45,5 +44,6 @@ nav:
     - qvas: onto/qvas.md
     - miscon: onto/miscon.md
   - Publicações: publi.md
+  - Equipe: equipe.md
   - Utilitários:
     - MKDocs-Material: util/material.md
