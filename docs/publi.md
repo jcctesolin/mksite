@@ -1,14 +1,12 @@
-# Teses
+# Teses / Dissertações / Projetos Finais
 
-**Towards A Mobile Wireless Network Ontology For Radio Access Points Selection Supported By Semantic Reasoning Rio De Janeiro**[:material-file-pdf-box:{ title="file"}](publi/202407_Tese_JTesolin.pdf){:download="202407_Tese_JTesolin"}
+**Towards A Mobile Wireless Network Ontology For Radio Access Points Selection Supported By Semantic Reasoning Rio De Janeiro**[:material-file-pdf-box:{ title="file"}](publi/202407_Tese_JTesolin.pdf){:download="202407_Tese_JTesolin"} (Tese)
 
 *Julio Cesar Cardoso Tesolin*
 
 **Combinando Técnica E Doutrina Por Meio De Conceitos Ontológicos Para Representar Cenários Operacionais Militares Em Sistemas De Comunicações Cognitivos**[:material-file-pdf-box:{ title="file"}](publi/DissertaçãoAndreMunizDemori_IME_versao_final.pdf){:download="Dss_ADemori"}
 
 *Marcus Albert Alves Da Silva*
-
-# Dissertações
 
 **Uma Abordagem Baseada Em Ontologia Para Reprodução De Cenários De  Operações Militares**[:material-file-pdf-box:{ title="file"}](publi/Tese_de_Doutorado_Marcus__IME_Final_Ass.pdf){:download="Tese_MAlbert"}
 

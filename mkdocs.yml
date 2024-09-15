@@ -1,8 +1,14 @@
-site_name: S2C2-IME
+site_name: Sistemas de Sistemas de Comando e Controle - S2C2/IME
 site_url: https://mydomain.org/mysite
 theme:
   name: material
   language: pt-BR
+  #logo: img/s2c2logo.jpg
+  icon:
+    #logo: material/radio-tower
+    logo: fontawesome/solid/wifi
+    repo: fontawesome/brands/git-alt
+  favicon: img/s2c2logo.jpg
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -30,6 +36,8 @@ theme:
     #- content.code.copy
     - content.tooltips
 
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -43,7 +51,14 @@ nav:
     - hint: onto/hint.md
     - qvas: onto/qvas.md
     - miscon: onto/miscon.md
+  - Vocabulários:
+    - hint: vocab/hintvocab.md
+    - qvas: vocab/qvasvocab.md
   - Publicações: publi.md
   - Equipe: equipe.md
   - Utilitários:
     - MKDocs-Material: util/material.md
+  - Links: links.md
+
+repo_url: https://github.com/comp-ime-eb-br/S2C2-IME
+repo_name: comp-ime-eb-br/S2C2-IME
