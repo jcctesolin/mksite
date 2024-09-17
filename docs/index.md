@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # Interoperabilidade Semântica de Comando e Controle das Forças Armadas Brasileiras
 
 ![](img/s2c2logo.png){ align=left }

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Coordenadora
 - Maria Cláudia Reis Cavalcanti - DSc. - IME
 # Pesquisadores

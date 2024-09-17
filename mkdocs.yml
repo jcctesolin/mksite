@@ -47,10 +47,10 @@ markdown_extensions:
 
 nav:
   - Sobre: index.md
-  - Ontologias:
-    - hint: onto/hint.md
-    - qvas: onto/qvas.md
-    - miscon: onto/miscon.md
+  - Ontologias: onto.md
+    #- hint: onto/hint.md
+    #- qvas: onto/qvas.md
+    #- miscon: onto/miscon.md
   - Vocabulários:
     - hint: vocab/hintvocab.md
     - qvas: vocab/qvasvocab.md

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Teses / Dissertações / Projetos Finais
 
 **Towards A Mobile Wireless Network Ontology For Radio Access Points Selection Supported By Semantic Reasoning Rio De Janeiro**[:material-file-pdf-box:{ title="file"}](publi/202407_Tese_JTesolin.pdf){:download="202407_Tese_JTesolin"} (Tese)
