@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# Teses / Dissertações / Projetos Finais
+# Teses
 
-**Towards A Mobile Wireless Network Ontology For Radio Access Points Selection Supported By Semantic Reasoning Rio De Janeiro**[:material-file-pdf-box:{ title="file"}](publi/202407_Tese_JTesolin.pdf){:download="202407_Tese_JTesolin"} (Tese)
+**Towards A Mobile Wireless Network Ontology For Radio Access Points Selection Supported By Semantic Reasoning Rio De Janeiro**[:material-file-pdf-box:{ title="file"}](publi/202407_Tese_JTesolin.pdf){:download="202407_Tese_JTesolin"}
 
 *Julio Cesar Cardoso Tesolin*
 
@@ -14,9 +14,13 @@ hide:
 
 *Marcus Albert Alves Da Silva*
 
+# Dissertações
+
 **Uma Abordagem Baseada Em Ontologia Para Reprodução De Cenários De  Operações Militares**[:material-file-pdf-box:{ title="file"}](publi/Tese_de_Doutorado_Marcus__IME_Final_Ass.pdf){:download="Tese_MAlbert"}
 
 *André Muniz Demori*
+
+# Projetos Finais de Curso
 
 # Artigos
 
@@ -32,5 +36,5 @@ hide:
 
 *André M. Demori, Julio Cesar Cardoso Tesolin, Maria Cláudia Reis Cavalcanti and David Fernandes Cruz Moura*
 
-# Outros Documentos
+# Relatórios e Outros Documentos
 

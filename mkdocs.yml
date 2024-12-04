@@ -1,14 +1,14 @@
 site_name: Sistemas de Sistemas de Comando e Controle - S2C2/IME
-site_url: https://mydomain.org/mysite
+site_url: https://comp-ime-eb-br.github.io/S2C2-IME/
 theme:
   name: material
   language: pt-BR
-  #logo: img/s2c2logo.jpg
+  logo: img/s2rdfc2b.png
   icon:
-    #logo: material/radio-tower
-    logo: fontawesome/solid/wifi
+    #logo: img/s2c2capsuleb.png
+    #logo: fontawesome/solid/wifi
     repo: fontawesome/brands/git-alt
-  favicon: img/s2c2logo.jpg
+  favicon: img/rdflogo.png
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -22,14 +22,15 @@ theme:
         name: Switch to light mode
 
   features:
-    #- navigation.instant
-    #- navigation.instant.progress
+    - navigation.instant
+    - navigation.instant.progress
     #- navigation.instant.preview
     #- navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    #- navigation.sections
-    - navigation.path
+    - navigation.sections
+    #- navigation.path
+    - navigation.indexes
     #- navigation.expand
     #- toc.integrate
     #- navigation.top
@@ -47,17 +48,17 @@ markdown_extensions:
 
 nav:
   - Sobre: index.md
-  - Ontologias: onto.md
-    #- hint: onto/hint.md
-    #- qvas: onto/qvas.md
-    #- miscon: onto/miscon.md
-  - Vocabulários:
-    - hint: vocab/hintvocab.md
-    - qvas: vocab/qvasvocab.md
+  - Ontologias:
+    - ontodesc/index.md
+    - hint: ontodesc/hint.md
+    - qvas: ontodesc/qvas.md
+    - MiScOn: ontodesc/miscon.md
   - Publicações: publi.md
   - Equipe: equipe.md
   - Utilitários:
-    - MKDocs-Material: util/material.md
+    - mkdocs: util/mkdocs.md
+    - purl: util/purl.md
+    - pylode: util/pylode.md
   - Links: links.md
 
 repo_url: https://github.com/comp-ime-eb-br/S2C2-IME
